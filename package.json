@@ -1,11 +1,11 @@
 {
   "name": "gym_ex_bot",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "main.go",
   "repository": "git@github.com:xbaysal11/gym_ex_bot.git",
   "author": "xbaysal11 <baisalbek.daniiarov@gmail.com>",
   "license": "MIT",
   "engines": {
-    "go": "1.12.5"
+    "go": "1.12"
   }
 }
